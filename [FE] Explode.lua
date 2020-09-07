@@ -1,0 +1,1 @@
+game.ReplicatedStorage.Channels.PlayerChannel:FireServer("LoadAvatarAsset",1527622)

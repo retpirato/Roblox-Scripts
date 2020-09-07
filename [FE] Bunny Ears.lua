@@ -1,0 +1,1 @@
+game:GetService'ReplicatedStorage'.ITEM_PURCHASE:InvokeServer("gay", "8", "331486631")

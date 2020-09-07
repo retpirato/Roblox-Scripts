@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('http://scripts.gamertime.tk/DuckHub/Main.lua'))()

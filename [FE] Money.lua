@@ -1,0 +1,1 @@
+game.ReplicatedStorage.Events.buyFood:FireServer("Cookie", -15000, 10)
