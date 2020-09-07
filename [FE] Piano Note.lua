@@ -1,0 +1,1 @@
+game.StarterPack.Trowel.Handle.BuildSound.Playing = true

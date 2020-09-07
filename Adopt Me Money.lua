@@ -1,0 +1,1 @@
+ game.ReplicatedStorage.API["PayAPI/CreateLocalCharge"]:InvokeServer(-1e999)

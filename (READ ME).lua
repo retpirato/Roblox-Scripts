@@ -1,0 +1,1 @@
+At the time of writing this, the 'Max Level' and 'Max Vel' scripts only change visuals. Changes do not save nor replicate server-side. I believe this is due to the FireServer() arguments for SwordBurst 2 being changed.

@@ -1,0 +1,1 @@
+Available stands are KillerQueen, TheWorld, CrazyDiamond, StarPlatinum

@@ -1,0 +1,11 @@
+1.Chop
+2.Gum
+3.Smoke
+4.Buddha
+5.Flame
+6.Phoenix
+7.Rumble
+8.String
+9.Ice
+10.Magma
+11.Light

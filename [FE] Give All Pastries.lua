@@ -1,0 +1,14 @@
+game.ReplicatedStorage.Pastries["Blueberry Muffin"]:Clone().Parent = game.Players.LocalPlayer.Backpack
+game.ReplicatedStorage.Pastries["Chocolate Cakepop"]:Clone().Parent = game.Players.LocalPlayer.Backpack
+game.ReplicatedStorage.Pastries["Chocolate Cookie"]:Clone().Parent = game.Players.LocalPlayer.Backpack
+game.ReplicatedStorage.Pastries["Chocolate Muffin"]:Clone().Parent = game.Players.LocalPlayer.Backpack
+game.ReplicatedStorage.Pastries["Croissant"]:Clone().Parent = game.Players.LocalPlayer.Backpack
+game.ReplicatedStorage.Pastries["Dark Chocolate Cookie"]:Clone().Parent = game.Players.LocalPlayer.Backpack
+game.ReplicatedStorage.Pastries["Fudge Cookie"]:Clone().Parent = game.Players.LocalPlayer.Backpack
+game.ReplicatedStorage.Pastries["Oreo Muffin"]:Clone().Parent = game.Players.LocalPlayer.Backpack
+game.ReplicatedStorage.Pastries["Red Velvet Muffin"]:Clone().Parent = game.Players.LocalPlayer.Backpack
+game.ReplicatedStorage.Pastries["Strawberry Cakepop"]:Clone().Parent = game.Players.LocalPlayer.Backpack
+game.ReplicatedStorage.Pastries["Sugar Cookie"]:Clone().Parent = game.Players.LocalPlayer.Backpack
+game.ReplicatedStorage.Pastries["Vanilla Cakepop"]:Clone().Parent = game.Players.LocalPlayer.Backpack
+game.ReplicatedStorage.Pastries["Vanilla Muffin"]:Clone().Parent = game.Players.LocalPlayer.Backpack
+game.ReplicatedStorage.Pastries["White Chocolate Cookie"]:Clone().Parent = game.Players.LocalPlayer.Backpack

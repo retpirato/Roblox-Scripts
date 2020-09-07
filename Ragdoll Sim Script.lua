@@ -1,0 +1,1 @@
+game.ReplicatedStorage.TitanKey:FireServer()

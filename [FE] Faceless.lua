@@ -1,0 +1,1 @@
+game.Players.LocalPlayer.Character.Head.face:Remove()

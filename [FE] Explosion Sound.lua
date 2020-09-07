@@ -1,0 +1,1 @@
+game.StarterPack.RocketLauncher.Explosion.Playing = true

